@@ -1,0 +1,9 @@
+C:\Users\Michael\Source\Repos\ImagingTools\ImagingTools\obj\Debug\ImagingTools.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Source\Repos\ImagingTools\ImagingTools\bin\Debug\ImagingTools.dll
+C:\Users\Michael\Source\Repos\ImagingTools\ImagingTools\bin\Debug\ImagingTools.pdb
+C:\Users\Michael\Source\Repos\ImagingTools\ImagingTools\obj\Debug\ImagingTools.dll
+C:\Users\Michael\Source\Repos\ImagingTools\ImagingTools\obj\Debug\ImagingTools.pdb
+C:\github\ImagingTools\ImagingTools\bin\Debug\ImagingTools.dll
+C:\github\ImagingTools\ImagingTools\bin\Debug\ImagingTools.pdb
+C:\github\ImagingTools\ImagingTools\obj\Debug\ImagingTools.dll
+C:\github\ImagingTools\ImagingTools\obj\Debug\ImagingTools.pdb
